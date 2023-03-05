@@ -1,1 +1,3 @@
-2020/10/28 First learning about git bash command
+# Algorithmic Toolbox
+
+Assignment in C++ for Algorithmic Toolbox on Coursera.
